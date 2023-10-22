@@ -1,0 +1,8 @@
+3V >> V+
+GND >> G
+A0 >> Po >> PH Sensor
+D2 >> Data >> Suhu Sensor
+
+
+https://www.anakkendali.com/arduino-tutorial-mengakses-sensor-ph-dan-kalibrasinya/
+https://forum.arduino.cc/t/ds18b20-temperature-sensor-not-working/317315/7
